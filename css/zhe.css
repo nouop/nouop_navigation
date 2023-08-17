@@ -1,0 +1,19 @@
+@keyframes yd{
+    0%{left:0px; top:0px;}
+    10%{left:100px; top:0px;}
+    20%{left:800px; top:100px;}
+    30%{left:300px; top:400px;}
+    40%{left:10px; top:150px;}
+    50%{left:700px; top:200px;}
+    60%{left:50px; top:500px;}
+    70%{left:670px; top:10px;}
+    80%{left:450px; top:100px;}
+    90%{left:0px; top:0px;}
+    100%{left:800px; top:0px;}
+  }
+img{
+    position: relative;
+    animation-name: yd;
+    animation-duration:10s;
+    animation-iteration-count: infinite;
+}
