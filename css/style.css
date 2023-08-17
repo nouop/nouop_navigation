@@ -1,0 +1,13 @@
+h1.head{
+    font-size: 300%;
+    line-height: 0;
+    word-break: keep-all;
+}
+h3.head{
+    font-size: 90%;
+    line-height: 0.7;
+}
+
+button{
+    margin-right: 20px;
+}
